@@ -1,3 +1,6 @@
+---
+title: Grants & Funding
+---
 # Grants & Funding
 
 Welcome to the Grants & Funding section.
@@ -8,3 +11,4 @@ This section contains guides for configuring grants and processing grant applica
 
 - [Configuring Grants](configuration.md)
 - [Processing Grant Applications](processing.md)
+
