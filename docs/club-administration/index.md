@@ -1,5 +1,5 @@
 ---
-title: Club Administration
+title: Club Administration (Home)
 ---
 Welcome to the Club Administration section.
 
