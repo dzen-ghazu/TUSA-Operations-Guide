@@ -1,3 +1,6 @@
+---
+title: User Management
+---
 # User Management
 
 Welcome to the User Management section.
@@ -11,3 +14,4 @@ This section contains guides for managing users, club stores, user grids, profil
 - [Managing Users in Grids](grids.md)
 - [Profiles – What Users Change and What You Set](profiles.md)
 - [The Annual Student Confirmation](annual-confirmation.md)
+
