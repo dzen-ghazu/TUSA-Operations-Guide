@@ -1,5 +1,5 @@
 ---
-title: club-access
+title: Club Access
 ---
 this page is club- access
 
