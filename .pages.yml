@@ -1,0 +1,46 @@
+# Media configuration allowing you to browse/upload across your media folders
+media:
+  - name: docs_media
+    label: Media
+    input: docs/media
+    output: ../../media
+    
+# File Map access
+  - name: map_pdf
+    label: File Map
+    input: docs/media/file-map
+    output: ../../media/file-map
+
+# Content Collections
+content:
+  - name: docs
+    label: docs
+    type: collection
+    path: docs
+    exclude:
+      - "**/media/**"
+      - "**/images/**"
+    fields:
+      - name: title
+        label: Title
+        type: string
+
+      - name: description
+        label: Description (SEO / meta tag)
+        type: text
+
+      - name: icon
+        label: Nav Icon
+        type: string
+        description: "Format: <set>/<icon-name>, e.g. material/rocket-launch"
+
+      - name: hide
+        label: Hide UI Elements
+        type: select
+        options:
+          multiple: true
+          values: ["navigation", "toc", "path", "footer", "feedback"]
+
+      - name: body
+        label: Page Content
+        type: rich-text
