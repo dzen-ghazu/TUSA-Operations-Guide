@@ -1,0 +1,141 @@
+site_name: TUSA Operations Guide
+site_description: Internal documentation, workflows, and standard operating procedures.
+site_author: TUSA IT Team
+site_url: https://tusa-it.github.io/operations-guide/ # Update with your deployment URL if applicable
+
+# Repository configuration (Update with your actual GitHub repo info)
+repo_name: TUSA / Operations Guide
+repo_url: https://github.com/TUSA-IT/operations-guide
+edit_uri: edit/main/docs/
+
+# Theme configuration (Using Material for MkDocs)
+theme:
+  name: material
+  language: en
+  palette:
+    # Palette toggle for automatic dark/light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+
+# Extensions for advanced Markdown formatting
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Sidebar Navigation Structure
+nav:
+  - Home: index.md
+  
+  - Club Administration:
+    - Overview: club-administration/index.md
+    - Approving Club Applications: club-administration/club-approval.md
+    - Club Groups vs TUSA Groups: club-administration/club-groups-vs-tusa-groups.md
+    - Club Membership Numbers and Reports: club-administration/club-membership-numbers-and-reports.md
+    - Handling Club Refunds: club-administration/club-refunds.md
+    - How Access Works: club-administration/club-access.md
+    - Importing Club Members via CSV: club-administration/club-importing-members.md
+    - Stripe Connected Accounts: club-administration/stripe-connected-accounts.md
+
+  - Content Management:
+      - Overview: content-management/index.md
+      - Managing the Documents Library: content-management/documents-library.md
+      - Managing TUSA Locations: content-management/locations.md 
+      - Managing Website Menus:  content-management/menus.md
+      - TUSA Page Builder Guide: content-management/page-builder.md
+
+  - EOIs + Feedback:
+      - Overview: eoi-feedback/index.md
+      - Managing Event Feedback: eoi-feedback/event-feedback.md
+      - Managing Expressions of Interest (EOIs): eoi-feedback/expressions-of-interest.md
+      - Managing Feedback Forms: eoi-feedback/feedback-management.md
+      - Managing Review Forms: eoi-feedback/review-management.md
+      - Moderating Reviews: eoi-feedback/review-moderation.md
+
+  - Events:
+      - Overview: events/index.md
+      - Approving Club Events: events/club-event-approval.md
+      - Handling Club Hire Orders: events/club-hire-orders.md
+
+  - Food Hub:
+      - Overview: food-hub/index.md
+      - Food Hub Donations= Where the Records Are Kept : food-hub/donations.md
+      - Food Hub Rosters: food-hub/rosters.md
+      - Selling Food Hub Meals Online: food-hub/selling-meals.md
+      - Setting Up Food Hub People: food-hub/setup.md
+
+  - General:
+      - Reporting an Issue: general/index.md
+
+  - Grants & Funding:
+      - Overview: grants-&-funding/index.md
+      - Configuring Grants: grants-&-funding/configuration.md
+      - Processing Grant Appications: grants-&-funding/processing.md
+
+  - Incident Reports:
+      - Handling Incident Reports: incident-report/index.md
+
+  - Logging In:
+      - Logging In: logging-in/index.md
+
+  - Store & Product Management:
+      - Overview: store-&-product-management/index.md
+      - Managing Club Store Products (Clubs super Admin): store-&-product-management/club-products.md
+      - Managing Hire Store Products: store-&-product-management/hire-products.md
+      - Managing TUSA Merch Store Products: store-&-product-management/tusa-products.md
+      - Setting Up Store Products for Non-Club Entities: store-&-product-management/non-club-products.md
+
+  - User Management:
+      - Overview: user-management/index.md
+      - Connecting Users to a Club Store: user-management/club-store.md
+      - Managing Users: user-management/users.md
+      - Managing Users in Grids: user-management/grids.md
+      - Profiles= What Users Change and What You Set : user-management/profiles.md
+      - The Annual Student Confirmation: user-management/annual-confirmation.md
+      
+
+  
+
+
+
