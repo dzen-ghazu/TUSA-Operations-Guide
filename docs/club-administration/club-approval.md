@@ -1,0 +1,3 @@
+---
+title: Approving Club Applications
+---
