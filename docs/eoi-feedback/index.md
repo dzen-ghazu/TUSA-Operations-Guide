@@ -1,3 +1,6 @@
+---
+title: EOIs + Feedback
+---
 # EOIs + Feedback
 
 Welcome to the EOIs + Feedback section.
@@ -11,3 +14,4 @@ This section contains guides for managing event feedback, Expressions of Interes
 - [Managing Feedback Forms](feedback-management.md)
 - [Managing Review Forms](review-management.md)
 - [Moderating Reviews](review-moderation.md)
+
