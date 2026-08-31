@@ -100,7 +100,7 @@ nav:
 
   - Food Hub:
       - Overview: food-hub/index.md
-      - Food Hub Donations= Where the Records Are Kept : food-hub/donations.md
+      - Food Hub Donations = Where the Records Are Kept : food-hub/donations.md
       - Food Hub Rosters: food-hub/rosters.md
       - Selling Food Hub Meals Online: food-hub/selling-meals.md
       - Setting Up Food Hub People: food-hub/setup.md
@@ -131,7 +131,7 @@ nav:
       - Connecting Users to a Club Store: user-management/club-store.md
       - Managing Users: user-management/users.md
       - Managing Users in Grids: user-management/grids.md
-      - Profiles= What Users Change and What You Set : user-management/profiles.md
+      - Profiles = What Users Change and What You Set : user-management/profiles.md
       - The Annual Student Confirmation: user-management/annual-confirmation.md
       
 
