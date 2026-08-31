@@ -1,5 +1,6 @@
-# Club Administration
-
+---
+title: Club Administration
+---
 Welcome to the Club Administration section.
 
 This section contains guides for managing clubs, members, applications, refunds, access, and payments.
@@ -13,3 +14,4 @@ This section contains guides for managing clubs, members, applications, refunds,
 - [How Access Works](club-access.md)
 - [Importing Club Members via CSV](club-importing-members.md)
 - [Stripe Connected Accounts](stripe-connected-accounts.md)
+
