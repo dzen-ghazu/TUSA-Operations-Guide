@@ -1,3 +1,6 @@
+---
+title: Food Hub
+---
 # Food Hub
 
 Welcome to the Food Hub section.
@@ -10,3 +13,4 @@ This section contains guides for managing Food Hub donations, rosters, online me
 - [Food Hub Rosters](rosters.md)
 - [Selling Food Hub Meals Online](selling-meals.md)
 - [Setting Up Food Hub People](setup.md)
+
