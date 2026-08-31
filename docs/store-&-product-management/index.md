@@ -1,3 +1,6 @@
+---
+title: Store & Product Management
+---
 # Store & Product Management
 
 Welcome to the Store & Product Management section.
@@ -10,3 +13,4 @@ This section contains guides for managing club store products, hire store produc
 - [Managing Hire Store Products](hire-products.md)
 - [Managing TUSA Merch Store Products](tusa-products.md)
 - [Setting Up Store Products for Non-Club Entities](non-club-products.md)
+
