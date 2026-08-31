@@ -1,5 +1,6 @@
-# Content Management
-
+---
+title: Content Management
+---
 Welcome to the Content Management section.
 
 This section contains guides for managing website content, documents, locations, menus, and pages.
@@ -10,3 +11,4 @@ This section contains guides for managing website content, documents, locations,
 - [Managing TUSA Locations](locations.md)
 - [Managing Website Menus](menus.md)
 - [TUSA Page Builder Guide](page-builder.md)
+
