@@ -1,3 +1,3 @@
 ---
-title: Managing Users in Grids
+title: Managing Users
 ---
