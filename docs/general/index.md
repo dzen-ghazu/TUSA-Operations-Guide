@@ -1,25 +1,35 @@
+---
+title: Reporting an Issue
+---
 # Reporting an Issue
+
 When something on the TUSA site isn’t working the way you expect, don’t try to debug it yourself — send Sarah the five things below and she’ll take it from there.
 
 This applies to anything on the site: a page that’s blank, a button that does nothing, a form that won’t submit, an email that didn’t arrive, a club that won’t save, an order that didn’t show up, a member who can’t log in.
 
 # What to send
+
 Reply with these five things — a screenshot covers most of them in one go:
 
 #### What were you doing?
+
 e.g. “I was setting up a new deal for Hobart Surf Club.”
 
 #### What did you see?
+
 e.g. “The page loaded blank — just the header and footer, nothing in the middle.”
 
 #### What did you expect to see?
+
 e.g. “I was expecting a form like the one I use for adding products.”
 
 #### Where were you?
+
 The page address (URL) at the top of the browser, or the menu path you took.
 e.g. “tusa.com.au/clubs/hobart-surf-club/manage/deals/add-new”
 
 #### A screenshot, please.
+
 – Windows: press Windows key + Shift + S, drag a box around the page, then paste into your message (Ctrl+V).
 – Mac: press Cmd + Shift + 4, drag a box, then drag the screenshot file into your message.
 – Phone: use your usual screenshot shortcut and attach the image.
