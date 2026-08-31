@@ -14,16 +14,26 @@ media:
 # Content Collections
 content:
   - name: docs
-    label: docs
+    label: documentation
     type: collection
     path: docs
     exclude:
       - "**/media/**"
       - "**/images/**"
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+
+    view:
+      fields:
+        - title
+        - description
+      primary: title
+
     fields:
       - name: title
         label: Title
         type: string
+        required: true
 
       - name: description
         label: Description (SEO / meta tag)
@@ -32,14 +42,6 @@ content:
       - name: icon
         label: Nav Icon
         type: string
-        description: "Format: <set>/<icon-name>, e.g. material/rocket-launch"
-
-      - name: hide
-        label: Hide UI Elements
-        type: select
-        options:
-          multiple: true
-          values: ["navigation", "toc", "path", "footer", "feedback"]
 
       - name: body
         label: Page Content
