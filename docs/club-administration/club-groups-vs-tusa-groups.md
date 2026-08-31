@@ -1,5 +1,7 @@
 ---
 title: Club Groups Vs TUSA Groups
+hide:
+  - toc
 ---
 # **Club Groups vs TUSA Groups**
 

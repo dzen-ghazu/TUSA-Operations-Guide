@@ -1,5 +1,7 @@
 ---
 title: Approving Club Applications
+hide:
+  - toc
 ---
 # **Approving Club Applications**
 
