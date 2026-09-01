@@ -8,6 +8,9 @@ repo_name: TUSA / Operations Guide
 repo_url: https://github.com/TUSA-IT/operations-guide
 edit_uri: edit/main/docs/
 
+extra_css:
+  - stylesheets/extra.css
+  
 # Theme configuration (Using Material for MkDocs)
 theme:
   name: material
@@ -138,8 +141,7 @@ nav:
       - Profiles = What Users Change and What You Set : user-management/profiles.md
       - The Annual Student Confirmation: user-management/annual-confirmation.md
 
-extra_css:
-  - stylesheets/extra.css
+
 
   
 
