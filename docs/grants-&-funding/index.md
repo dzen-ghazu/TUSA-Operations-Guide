@@ -1,5 +1,7 @@
 ---
 title: Grants & Funding
+hide:
+  - toc
 ---
 # Grants & Funding
 
