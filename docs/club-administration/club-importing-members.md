@@ -1,5 +1,7 @@
 ---
 title: Importing Club Members via CSV
+hide:
+  - toc
 ---
 # **Importing Club Members via CSV**
 
