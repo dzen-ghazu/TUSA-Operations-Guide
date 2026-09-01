@@ -1,5 +1,7 @@
 ---
 title: Events
+hide:
+  - toc
 ---
 # Events
 
