@@ -1,6 +1,8 @@
 ---
 title: Club Administration (home)
 ---
+# Club Administration
+
 Welcome to the Club Administration section.
 
 This section contains guides for managing clubs, members, applications, refunds, access, and payments.
