@@ -1,4 +1,0 @@
-zensical
-mkdocs
-mkdocs-material
-pymdown-extensions
