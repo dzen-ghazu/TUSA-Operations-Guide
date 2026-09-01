@@ -1,11 +1,10 @@
 site_name: TUSA Operations Guide
 site_description: Internal documentation, workflows, and standard operating procedures.
 site_author: TUSA IT Team
-site_url: https://tusa-it.github.io/operations-guide/ # Update with your deployment URL if applicable
+site_url: https://dzen-ghazu.github.io/TUSA-Operations-Guide/ # Update with your deployment URL if applicable
 
 # Repository configuration (Update with your actual GitHub repo info)
 repo_name: TUSA / Operations Guide
-repo_url: https://github.com/TUSA-IT/operations-guide
 edit_uri: edit/main/docs/
 
 extra_css:
