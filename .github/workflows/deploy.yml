@@ -1,5 +1,4 @@
-
-name: Deploy Zensical Site
+name: Deploy MkDocs Site
 
 on:
   push:
@@ -33,13 +32,13 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install Zensical
+      - name: Install MkDocs and Material
         run: |
-          pip install zensical
+          pip install mkdocs-material
 
-      - name: Build static site
+      - name: Build site
         run: |
-          zensical build
+          mkdocs build
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3
