@@ -7,12 +7,14 @@ site_url: https://dzen-ghazu.github.io/TUSA-Operations-Guide/ # Update with your
 repo_name: TUSA / Operations Guide
 edit_uri: edit/main/docs/
 
-logo: "media/TUSA_Logo.png"
+
 
 # Theme configuration (Using Material for MkDocs)
 theme:
   name: material
   language: en
+  logo: "media/TUSA_Logo.png"
+  
   palette:
     # Palette toggle for automatic dark/light mode
     - media: "(prefers-color-scheme: light)"
