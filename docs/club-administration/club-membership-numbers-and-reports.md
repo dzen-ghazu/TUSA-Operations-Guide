@@ -1,5 +1,7 @@
 ---
 title: Club Membership Numbers and Reports
+hide:
+  - toc
 ---
 # **Club Membership Numbers and Reports**
 
