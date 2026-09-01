@@ -30,11 +30,13 @@ theme:
         name: Switch to light mode
   features:
     - announce.dismiss
+    
     - content.code.annotate
     - content.code.select
     - content.footnote.tooltips
     - content.tabs.link
     - content.tooltips
+    
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -42,6 +44,7 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.tracking
+    - navigation.tabs
     - search.highlight
 
 # Extensions for advanced Markdown formatting
