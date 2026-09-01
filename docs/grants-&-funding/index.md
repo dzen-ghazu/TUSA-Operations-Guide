@@ -1,5 +1,5 @@
 ---
-title: Grants & Funding
+title: (Home) Grants & Funding
 hide:
   - toc
 ---
