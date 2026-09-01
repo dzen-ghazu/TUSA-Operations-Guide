@@ -1,5 +1,7 @@
 ---
 title: Store & Product Management
+hide:
+  - toc
 ---
 # Store & Product Management
 
