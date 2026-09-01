@@ -1,5 +1,7 @@
 ---
 title: Food Hub
+hide:
+  - toc
 ---
 # Food Hub
 
