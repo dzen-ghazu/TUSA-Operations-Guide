@@ -1,5 +1,5 @@
 ---
-title: Events
+title: (Home) Events
 hide:
   - toc
 ---
