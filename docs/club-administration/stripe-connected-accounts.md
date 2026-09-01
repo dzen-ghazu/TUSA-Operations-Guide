@@ -1,5 +1,7 @@
 ---
 title: Stripe Connected Accounts
+hide:
+  - toc
 ---
 # **Stripe Connected Accounts**
 
