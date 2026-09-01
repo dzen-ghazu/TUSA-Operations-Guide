@@ -1,5 +1,5 @@
 ---
-title: Content Management
+title: (Home) Content Management
 hide:
   - toc
 ---
