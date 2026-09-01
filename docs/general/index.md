@@ -1,5 +1,7 @@
 ---
 title: Reporting an Issue
+hide:
+  - toc
 ---
 # Reporting an Issue
 
