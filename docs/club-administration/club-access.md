@@ -1,5 +1,7 @@
 ---
 title: How Access Works
+hide:
+  - toc
 ---
 # **How access works: groups, roles, and who sees what**
 
