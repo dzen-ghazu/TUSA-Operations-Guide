@@ -13,7 +13,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: en
-  logo: "media/TUSA_Logo.png"
+  
   
   palette:
     # Palette toggle for automatic dark/light mode
