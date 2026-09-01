@@ -42,6 +42,7 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.tracking
+    - navigation.tabs
     - search.highlight
 
 # Extensions for advanced Markdown formatting
