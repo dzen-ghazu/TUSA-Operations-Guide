@@ -1,5 +1,7 @@
 ---
 title: EOIs + Feedback
+hide:
+  - toc
 ---
 # EOIs + Feedback
 
