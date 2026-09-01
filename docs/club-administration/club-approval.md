@@ -5,7 +5,9 @@ hide:
 ---
 # **Approving Club Applications**
 
-This guide covers how to process club affiliation and reaffiliation applications.
+This guide covers how to process club affiliation and reaffiliation applications.  
+  
+this is for testing
 
 ---
 
