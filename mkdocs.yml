@@ -6,7 +6,9 @@ site_url: https://dzen-ghazu.github.io/TUSA-Operations-Guide/ # Update with your
 # Repository configuration (Update with your actual GitHub repo info)
 repo_name: TUSA / Operations Guide
 edit_uri: edit/main/docs/
-  
+
+logo: "media/TUSA_Logo.png"
+
 # Theme configuration (Using Material for MkDocs)
 theme:
   name: material
