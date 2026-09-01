@@ -1,5 +1,7 @@
 ---
 title: (Home) Club Administration
+hide:
+  - toc
 ---
 # Club Administration
 
