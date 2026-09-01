@@ -1,5 +1,7 @@
 ---
 title: Content Management
+hide:
+  - toc
 ---
 Welcome to the Content Management section.
 
