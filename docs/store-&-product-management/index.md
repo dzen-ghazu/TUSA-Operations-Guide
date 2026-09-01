@@ -1,5 +1,5 @@
 ---
-title: Store & Product Management
+title: (Home) Store & Product Management
 hide:
   - toc
 ---
