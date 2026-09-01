@@ -1,5 +1,7 @@
 ---
 title: Handling Club Refunds
+hide:
+  - toc
 ---
 # **Handling Club Refunds**
 
