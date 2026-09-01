@@ -35,14 +35,6 @@ content:
         type: string
         required: true
 
-      - name: description
-        label: Description (SEO / meta tag)
-        type: text
-
-      - name: icon
-        label: Nav Icon
-        type: string
-
       - name: body
         label: Page Content
         type: rich-text
