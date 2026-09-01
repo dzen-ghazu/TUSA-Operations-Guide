@@ -1,5 +1,5 @@
 ---
-title: (home) Club Administration
+title: (Home) Club Administration
 ---
 # Club Administration
 
