@@ -1,5 +1,5 @@
 ---
-title: EOIs + Feedback
+title: (Home) EOIs + Feedback
 hide:
   - toc
 ---
