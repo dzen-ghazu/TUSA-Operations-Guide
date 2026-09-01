@@ -1,7 +1,5 @@
 ---
 title: Stripe Connected Accounts
-hide:
-  - toc
 ---
 # **Stripe Connected Accounts**
 
@@ -208,7 +206,7 @@ If a row in the Existing Club Stripe Accounts table shows **Error** in the Charg
 
 Open Stripe Dashboard > Connect > Connected accounts and search for the club by name. You’ll see one of three things:
 
-- **An account with a different ID than what’s stored in WP.** Usually a previous failed creation attempt left an orphan ID in WP while the real account remained in Stripe with the right name. Use **Replace ID** on the row, paste in the real ID from Stripe (always use the **Copy ID** button rather than reading the ID off the screen; the `I`, `l`, and `1` characters are visually indistinguishable in sans-serif fonts and you’ll save the wrong ID). Replace ID auto-reconnects the account to Dokan after saving.
+- **An account with a different ID than what’s stored in WP.** Usually a previous failed creation attempt left an orphan ID in WP while the real account remained in Stripe with the right name. Use **Replace ID** on the row, paste in the real ID from Stripe (always use the **Copy ID** button rather than reading the ID off the screen; the `I`, `l`, and `1` characters are visually indistinguishable in sans-serif fonts, and you’ll save the wrong ID). Replace ID auto-reconnects the account to Dokan after saving.
 - **No matching account at all.** The account was either deleted, was on a different Stripe platform that’s since been disconnected, or had its application access revoked. Use **Recreate** on the row. The club will need to redo onboarding (bank details) on the new account.
 - **The account is there with the same ID as WP.** Click **Re-check all accounts against Stripe** at the top of the table to refresh the cache, then look again. If Error persists, contact Sarah.
 
