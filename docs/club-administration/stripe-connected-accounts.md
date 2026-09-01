@@ -1,9 +1,9 @@
 ---
 title: Stripe Connected Accounts
+hide:
+  - toc
 ---
 # **Stripe Connected Accounts**
-
-
 
 ## **Why We Use Stripe**
 
@@ -59,7 +59,7 @@ to yet, and that’s fine — the account attaches to the group for now.
 
 - Click **Create Stripe Account**.
 
-The account is created and the onboarding email goes to **clubs@tusa.utas.edu.au**  
+The account is created and the onboarding email goes to **[clubs@tusa.utas.edu.au**](mailto:clubs@tusa.utas.edu.au)  
 (the same as for clubs). From there it’s the same as any other account — see  
 [Verification](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/club-administration/stripe-connected-accounts/#verification) below for adding the bank details and finishing setup.
 
@@ -145,19 +145,17 @@ The name and address on the Stripe account must match the constitution exactly.
 
 
 | Field | What to enter |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Bank account** | Club’s BSB and account number. Source: SharePoint > C&S Archives > [Club] > Bank, or the club sends details to clubs@tusa.utas.edu.au |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bank account** | Club’s BSB and account number. Source: SharePoint > C&S Archives > [Club] > Bank, or the club sends details to [clubs@tusa.utas.edu.au](mailto:clubs@tusa.utas.edu.au) |
 | **Phone number** | Shauna-Lee Ward’s TUSA number: **03 6226 2862** (same for all accounts) |
 | **Industry** | Membership organizations > Other membership organizations |
 
 
 ## **When Stripe Rejects the Constitution**
 
-
-
 This happens regularly. Stripe’s automated review often rejects the constitution as a verification document because clubs don’t have ABNs. It takes 2-24 hours for Stripe to review, and if it’s rejected the status goes back to **Restricted**.
 
-Contact Stripe Support at **support@stripe.com** with this message:
+Contact Stripe Support at **[support@stripe.com](mailto:support@stripe.com)** with this message:
 
 > **Subject:** Ongoing Verification for TUSA Student Club Sub-Accounts
 
