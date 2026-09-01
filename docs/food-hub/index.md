@@ -1,5 +1,5 @@
 ---
-title: Food Hub
+title: (Home) Food Hub
 hide:
   - toc
 ---
