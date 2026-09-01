@@ -34,6 +34,13 @@ content:
         label: Title
         type: string
         required: true
+        
+      - name: hide
+        label: Hide UI Elements
+        type: select
+        options:
+          multiple: true
+          values: ["navigation", "toc", "path", "footer", "feedback"]
 
       - name: body
         label: Page Content
