@@ -1,7 +1,5 @@
 ---
-title: Club Administration
-hide:
-  - toc
+title: Club Administration (home)
 ---
 Welcome to the Club Administration section.
 
