@@ -13,8 +13,6 @@ This guide explains how the TUSA Locations system works, what the different loca
 
 ## **Table of Contents**
 
-
-
 - [How Locations Work](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/managing-tusa-locations/#how-locations-work)
 - [Location Categories](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/managing-tusa-locations/#location-categories)
 - [The Fields on Every Location](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/managing-tusa-locations/#the-fields-on-every-location)
@@ -30,8 +28,6 @@ This guide explains how the TUSA Locations system works, what the different loca
 
 
 ## **How Locations Work**
-
-
 
 TUSA Locations appear as a top-level item labelled **TUSA Locations** in the site admin sidebar (with a map pin icon). Each location is its own page that shows as a tile on the front end of the site.
 
@@ -50,13 +46,7 @@ A location tile should have **one service type** and **one region**. This is wha
 
 ## **Location Categories**
 
-
-
-&nbsp;
-
 ### **Service Types**
-
-
 
 
 | Category | What it means | What students are looking for |
@@ -69,8 +59,6 @@ A location tile should have **one service type** and **one region**. This is wha
 ### **Regions**
 
 
-
-
 | Category | Covers |
 | ------------------------------------------ | ------------------------------------------ |
 | **nipaluna/Hobart** | Sandy Bay campus and Hobart city locations |
@@ -80,8 +68,6 @@ A location tile should have **one service type** and **one region**. This is wha
 
 ### **How to assign categories**
 
-
-
 When editing a TUSA Location, you’ll see the **TUSA Location Categories** panel in the sidebar. Tick the relevant service type and region. For example, “Sandy Bay Hire Store” should have both **Hire Store** and **nipaluna/Hobart** ticked.
 
 ---
@@ -89,8 +75,6 @@ When editing a TUSA Location, you’ll see the **TUSA Location Categories** pane
 
 
 ## **The Fields on Every Location**
-
-
 
 When you edit a TUSA Location, you’ll see these fields below the main content editor:
 
@@ -112,8 +96,6 @@ The **featured image** is the photo that appears on the tile.
 
 ## **Why Separate Tiles Matter**
 
-
-
 TUSA operates different services at its campuses. An office, a hire store, and a food hub may all be on the same campus — but they serve completely different student needs.
 
 **A student looking for food hub hours does not want to read through office contact details and hire store pickup times to find them.** And a student looking for the office doesn’t want to scroll past food hub schedules.
@@ -123,8 +105,6 @@ That’s why each service gets its own tile, even when they share a campus or a 
 
 
 ### **How categories power filtering**
-
-
 
 Categories aren’t just labels — they control how students find locations.
 
@@ -143,8 +123,6 @@ Each tile has its own category, its own map marker, its own sharing link, and on
 
 
 ### **A real example of the problem**
-
-
 
 Look at the current “Northern Tasmania” office tile. Its content is:
 
@@ -170,8 +148,6 @@ The Food Hub info doesn’t belong here. There is already a separate “Inveresk
 
 ### **What the office tile should look like**
 
-
-
 > **TUSA Launceston Office**
 
 > Opening hours: Monday to Friday, 9:00am to 5:00pm
@@ -188,13 +164,7 @@ That’s it. Short, scannable, only office-relevant information.
 
 ## **What Content Goes on Each Tile**
 
-
-
-&nbsp;
-
 ### **Office tiles**
-
-
 
 
 | Include | Don’t include |
@@ -210,8 +180,6 @@ That’s it. Short, scannable, only office-relevant information.
 ### **Hire Store tiles**
 
 
-
-
 | Include | Don’t include |
 | -------------------------------------------------------- | ---------------------- |
 | Store name | Office contact details |
@@ -221,8 +189,6 @@ That’s it. Short, scannable, only office-relevant information.
 
 
 ### **Food Hub tiles**
-
-
 
 
 | Include | Don’t include |
@@ -240,8 +206,6 @@ That’s it. Short, scannable, only office-relevant information.
 
 
 ## **How the Hire Store Connects to Locations**
-
-
 
 Hire Store location tiles aren’t just informational — they are connected to the online hire system.
 
@@ -262,13 +226,7 @@ Every product in the hire store has a **pickup location** assigned to it (Sandy 
 
 ## **The Sharing Link and Map**
 
-
-
-&nbsp;
-
 ### **Sharing link**
-
-
 
 The **Sharing link** field holds a Google Maps link that students can use to get directions. To get one:
 
@@ -281,8 +239,6 @@ The **Sharing link** field holds a Google Maps link that students can use to get
 
 
 ### **Street Address (map)**
-
-
 
 The **Street Address** field is an interactive OpenStreetMap. When you edit it:
 
@@ -299,15 +255,9 @@ This map is what students see on the front end of the tile.
 
 ## **Current Locations Reference**
 
-
-
 Here are all the TUSA Location tiles currently on the site, with their categories:
 
-
-
 ### **Offices**
-
-
 
 
 | Title | Region | Address |
@@ -321,8 +271,6 @@ Here are all the TUSA Location tiles currently on the site, with their categorie
 ### **Hire Stores**
 
 
-
-
 | Title | Region | Address |
 | --------------------- | -------------------------------------- | ------------------------------------------ |
 | Sandy Bay Hire Store | nipaluna/Hobart | 1 Churchill Ave, Sandy Bay |
@@ -330,8 +278,6 @@ Here are all the TUSA Location tiles currently on the site, with their categorie
 
 
 ### **Food Hubs**
-
-
 
 
 | Title | Region | Address |
@@ -347,13 +293,7 @@ Here are all the TUSA Location tiles currently on the site, with their categorie
 
 ## **Common Mistakes**
 
-
-
-&nbsp;
-
 ### **Putting food hub or hire store details on an office tile**
-
-
 
 This is the most common mistake. If you find yourself typing food hub hours or hire store information on an office tile, stop — that information has its own tile. Go find the Food Hub or Hire Store tile for that campus and put the information there instead.
 
@@ -361,23 +301,17 @@ This is the most common mistake. If you find yourself typing food hub hours or h
 
 ### **Duplicating information across tiles**
 
-
-
 If the same hours or address appear on two different tiles, one of them will eventually go out of date. Each piece of information should live on exactly one tile.
 
 
 
 ### **Leaving the Street Address map empty**
 
-
-
 Every location needs the map field filled in. Without the map marker, the tile won’t show the interactive map and students can’t get visual directions. If you’ve filled in the Location address text field but not the Street Address map, the tile is incomplete.
 
 
 
 ### **Forgetting to set categories**
-
-
 
 Every location needs both a **service type** (Office / Hire Store / Food Hub) and a **region** (nipaluna/Hobart / palanwina lurini kanamaluka/Launceston / pataway/Burnie). Without categories, the location won’t appear when students filter by type or region.
 
