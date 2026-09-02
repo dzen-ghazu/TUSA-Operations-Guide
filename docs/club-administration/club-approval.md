@@ -5,37 +5,6 @@ hide:
 ---
 # **Approving Club Applications**
 
-This guide covers how to process club affiliation and reaffiliation applications.
-
----
-
-## **Policy vs Process**
-
-**Important distinction:**
-
-
-| Type | Who Decides | Examples |
-| ----------- | ----------------------- | ------------------------------------------------------------- |
-| **Policy** | TUSA internal direction | Whether a club meets affiliation criteria, required documents |
-| **Process** | What this guide covers | Where to find applications, what gets created automatically |
-
-
-This guide covers **the process only**. Whether to approve or reject a club application is an internal decision — refer to your manager or the club affiliation policy documents.
-
----
-
-## **Before an Application: EOI and Club Officer Meeting**
-
-**Important:** Clubs cannot submit an affiliation application directly. There is a required step first:
-
-- **Expression of Interest (EOI)** — The club submits an EOI form
-- **Meeting with Club Officer** — TUSA Club Officer contacts them to arrange a meeting
-- **Application invited** — After the meeting, the club is invited to submit their full application
-
-This means by the time you see an application in the system, the club has already met with a Club Officer and been given the go-ahead to apply.
-
----
-
 ## **Types of Applications**
 
 
