@@ -3,6 +3,8 @@ title: (Home) Content Management
 hide:
   - toc
 ---
+# Content Management
+
 Welcome to the Content Management section.
 
 This section contains guides for managing website content, documents, locations, menus, and pages.
