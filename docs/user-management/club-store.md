@@ -13,8 +13,6 @@ hide:
 
 ## **Why you can’t do it on the Edit User screen**
 
-
-
 A user’s **role** and their **store membership** are two separate things:
 
 
@@ -29,8 +27,6 @@ Adding the `vendor_staff` role by hand sets the permission flag but **not** the 
 
 
 ### **A store link is a whole transaction, not one field**
-
-
 
 This is the heart of it: **linking a user to a store is much more than assigning a vendor ID.** A working link is a set of changes the automation makes *together, in one go*:
 
@@ -52,8 +48,6 @@ Setting the vendor ID by hand in the back end does **one** of those and skips th
 
 ## **One store per person — the rule behind everything on this page**
 
-
-
 Every store has a single **vendor ID**, and **a user can be linked to only ONE vendor ID — one store — at a time.** There is no “second store”: trying to add someone to a new store does nothing until they have been removed from the store they’re currently on.
 
 This single rule explains everything else here:
@@ -70,15 +64,11 @@ If a person genuinely needs to work across two stores, that is **not possible wi
 
 ## **The two correct ways to connect someone to a club store**
 
-
-
 Both of these run the automation that sets the store link (`_vendor_id`) to the **club president’s** store. Use either:
 
 
 
 ### **1. Promote them to Organizer in the club’s group (recommended for committee)**
-
-
 
 - Go to the club’s **BuddyBoss group → Members**
 - Promote the person to **Organizer**
@@ -93,8 +83,6 @@ Demoting them from Organizer later removes that store access automatically.
 
 
 ### **2. Add them from inside the Store Manager → Team page (for non-committee helpers)**
-
-
 
 Done by the club president or an existing staff member, from **their own account**:
 
@@ -112,8 +100,6 @@ See the club-facing walkthrough: [Managing Store Staff](https://tusa-dev.its.uta
 
 ## **Recovering a user who got attached to the wrong store**
 
-
-
 If someone ended up on the wrong store — e.g. edited into `vendor_staff` on the Edit User screen and now stuck on the **TUSA Store** (`…/club-store/tusa`):
 
 - **Remove them from the store they’re wrongly attached to.** Log in as a club admin / owner of **that** store (for the TUSA Store, a TUSA Store admin account), go to **Profile → Store Management → Team → Current Staff**, find them, and click **Remove from Store**. This clears their store link (`_vendor_id`) — it does **not** delete their account.
@@ -129,8 +115,6 @@ If someone ended up on the wrong store — e.g. edited into `vendor_staff` on th
 
 
 ## **Quick reference**
-
-
 
 
 | Situation | Do this |
