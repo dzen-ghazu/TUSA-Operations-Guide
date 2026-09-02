@@ -14,7 +14,7 @@ media:
 # Content Collections
 content:
   - name: docs
-    label: documentation
+    label: docs
     type: collection
     path: docs
     exclude:
