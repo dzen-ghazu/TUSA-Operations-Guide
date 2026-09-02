@@ -5,7 +5,7 @@ hide:
 ---
 # **Approving Club Applications**
 
-![Home-map-guide.png](/media/Home-map-guide-1.png)
+![Home-map-guide.png](media/Home-map-guide-1.png)
 
 ## **Types of Applications**
 
