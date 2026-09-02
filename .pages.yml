@@ -3,7 +3,7 @@ media:
   - name: docs_media
     label: Media
     input: docs/media
-    output: ../../media
+    output: /media
     
 # File Map access
   - name: map_pdf
