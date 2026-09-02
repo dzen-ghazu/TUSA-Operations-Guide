@@ -1,5 +1,5 @@
 ---
-title: Managing Feedback Forms
+title: Managing Event Feedback 
 hide:
   - toc
 ---
