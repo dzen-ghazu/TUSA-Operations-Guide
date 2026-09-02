@@ -294,23 +294,11 @@ When you DON’T tick a requirement:
 
 If “Balls & Annual Dinners Grant 2026” has these ticked:
 
-- 
+- Club contribution amount must be specified
 
-![☑️](https://s.w.org/images/core/emoji/17.0.2/svg/2611.svg)
+- Ticket pricing must cover food costs
 
-Club contribution amount must be specified
-
-- 
-
-![☑️](https://s.w.org/images/core/emoji/17.0.2/svg/2611.svg)
-
-Ticket pricing must cover food costs
-
-- 
-
-![☑️](https://s.w.org/images/core/emoji/17.0.2/svg/2611.svg)
-
-Final budget breakdown/claim required
+- Final budget breakdown/claim required
 
 Applicants will see exactly those three items in their “Evidence Required for This Grant” section.
 
