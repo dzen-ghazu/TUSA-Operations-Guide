@@ -15,7 +15,7 @@ This site brings together the key guides and processes used across TUSA in one p
 
 ## Navigation Guide
 
-![Home-map-guide.png](../../media/Home-map-guide.png)
+![Home-map-guide.png](../media/Home-map-guide.png)
 
 Select a section below to access its documentation.
 
