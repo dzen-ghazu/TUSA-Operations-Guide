@@ -13,8 +13,6 @@ A complete guide to editing pages on the TUSA website using Gutenberg and our cu
 
 ## **Table of Contents**
 
-
-
 - [Creating a New Page](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/tusa-page-builder-guide/#creating-a-new-page)
 - [Understanding Your Tools](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/tusa-page-builder-guide/#understanding-your-tools)
 - [Getting Started – The Editor Interface](https://tusa-dev.its.utas.edu.au/docs/tusa-operations-guide/content-management/tusa-page-builder-guide/#getting-started---the-editor-interface)
@@ -39,15 +37,11 @@ A complete guide to editing pages on the TUSA website using Gutenberg and our cu
 
 ## **Creating a New Page**
 
-
-
 Before you can add content, you need to create the page itself. Here’s the step-by-step process.
 
 
 
 ### **Step 1: Go to Pages**
-
-
 
 - In WordPress admin, go to **Pages** in the left menu
 - Click **Add New**
@@ -55,8 +49,6 @@ Before you can add content, you need to create the page itself. Here’s the ste
 
 
 ### **Step 2: Set the Page Title**
-
-
 
 - At the top of the editor, you’ll see “Add title”
 - Type your page title
@@ -71,8 +63,6 @@ Before you can add content, you need to create the page itself. Here’s the ste
 
 
 ### **Step 3: Set the Parent Page (Important!)**
-
-
 
 The parent page determines where your page sits in the site hierarchy and navigation.
 
@@ -100,8 +90,6 @@ The parent page determines where your page sits in the site hierarchy and naviga
 
 ### **Step 4: Set the Featured Image**
 
-
-
 The featured image appears in the page header and when the page is shared.
 
 - In Page Settings panel, find **“Featured Image”**
@@ -119,8 +107,6 @@ The featured image appears in the page header and when the page is shared.
 
 ### **Step 5: Add the Page Excerpt**
 
-
-
 **Always add an excerpt** – it’s used for search results, page cards, and social sharing.
 
 - In Page Settings panel, find **“Excerpt”** (may need to scroll or click a button to expand)
@@ -136,8 +122,6 @@ The featured image appears in the page header and when the page is shared.
 
 ### **Step 6: Add Your Content**
 
-
-
 Now you’re ready to build the page content using the editor. See the sections below for how to:
 
 - Use the editor interface
@@ -147,8 +131,6 @@ Now you’re ready to build the page content using the editor. See the sections 
 
 
 ### **Step 7: Preview and Publish**
-
-
 
 - Click **Preview** to see how the page looks
 - Check the featured image displays correctly
@@ -161,16 +143,14 @@ If editing an existing page, you’ll see **Update** instead of Publish.
 
 ### **Quick Checklist for New Pages**
 
-
-
 Before publishing, confirm:
 
-- [ ] Page title is set
-- [ ] Parent page is correct
-- [ ] Featured image is added
-- [ ] Excerpt is written
-- [ ] Content is complete
-- [ ] Preview looks correct
+- Page title is set
+- Parent page is correct
+- Featured image is added
+- Excerpt is written
+- Content is complete
+- Preview looks correct
 
 ---
 
@@ -178,13 +158,7 @@ Before publishing, confirm:
 
 ## **Understanding Your Tools**
 
-
-
-&nbsp;
-
 ### **What Are These Tools?**
-
-
 
 
 | Tool | What It Is | Your Role |
@@ -197,8 +171,6 @@ Before publishing, confirm:
 
 ### **Why It Works This Way**
 
-
-
 This system was built so you can edit content **without breaking anything**:
 
 - **Edit safely** – You can’t accidentally break the site’s design
@@ -208,11 +180,7 @@ This system was built so you can edit content **without breaking anything**:
 
 ---
 
-
-
 ## **Getting Started – The Editor Interface**
-
-
 
 When you open a page to edit, you’ll see the Gutenberg editor. Here’s what you’re looking at:
 
@@ -236,11 +204,7 @@ When you open a page to edit, you’ll see the Gutenberg editor. Here’s what y
 
 
 
-&nbsp;
-
 ### **Key Areas to Know**
-
-
 
 
 | Area | Location | Purpose |
@@ -254,19 +218,13 @@ When you open a page to edit, you’ll see the Gutenberg editor. Here’s what y
 
 ---
 
-
-
 ## **The List View – Your Best Friend**
-
-
 
 **This is the most important tool you need to learn.** When you feel lost on a page, open List View.
 
 
 
 ### **How to Open List View**
-
-
 
 - Look for the **three horizontal lines icon (≡)** in the top toolbar
 - Click it
@@ -294,11 +252,7 @@ List View Panel:
 
 
 
-&nbsp;
-
 ### **Why List View Matters**
-
-
 
 
 | Problem | How List View Helps |
@@ -312,8 +266,6 @@ List View Panel:
 
 ### **Using List View**
 
-
-
 **To select a block:** Click its name in the list
 
 **To expand/collapse:** Click the arrow (▶) next to groups
@@ -326,23 +278,15 @@ List View Panel:
 
 ### **Pro Tip: Keep List View Open**
 
-
-
 While editing complex pages, keep List View open on the left side. It makes everything easier.
 
 ---
-
-
 
 ## **Understanding Block Types**
 
 
 
-&nbsp;
-
 ### **How to Identify Block Types**
-
-
 
 When you click [+] to add a block or look at List View, you’ll see different icons:
 
@@ -356,8 +300,6 @@ When you click [+] to add a block or look at List View, you’ll see different i
 
 ### **Our Custom TUSA Blocks (TUSA logo icon)**
 
-
-
 Blocks showing the **TUSA logo** as their icon are custom-built for TUSA. Look for it when browsing  
 blocks or scanning List View: if a block carries the TUSA logo, it was made specifically for our site.  
 Everything else is either a standard WordPress block or a plugin block.
@@ -370,11 +312,7 @@ These include:
 
 **These are safe to use** – they’re designed to look right automatically and follow brand guidelines.
 
-
-
 ### **Standard Gutenberg Blocks**
-
-
 
 All other blocks are standard WordPress blocks:
 
@@ -393,15 +331,11 @@ All other blocks are standard WordPress blocks:
 
 ### **WP Grid Builder Blocks & Shortcodes – DO NOT EDIT**
 
-
-
 **You will see WP Grid Builder blocks and shortcodes on pages. DO NOT try to edit them.**
 
 
 
 #### **WP Grid Builder Blocks**
-
-
 
 These blocks display dynamic content from the database:
 
@@ -427,8 +361,6 @@ These blocks display dynamic content from the database:
 
 #### **Shortcodes**
 
-
-
 Shortcodes look like this: `[something_here]` or `[shortcode param="value"]`
 
 These are also backend functionality that you cannot edit directly. Sometimes we use shortcodes instead of WP Grid Builder blocks – they serve similar purposes.
@@ -440,11 +372,7 @@ Contact the development team. We need to modify the underlying queries, template
 
 ---
 
-
-
 ## **Editing Gutenbricks Blocks (TUSA Custom Blocks)**
-
-
 
 Our custom TUSA blocks (the ones showing the TUSA logo icon) have special editing panels. Here’s how to use them.
 
@@ -452,23 +380,13 @@ Our custom TUSA blocks (the ones showing the TUSA logo icon) have special editin
 
 ### **How to Edit a Gutenbricks Block**
 
-
-
 - **Select the block** (click it or use List View)
 - **Look at the Settings Panel** on the right side
 - The panel shows different tabs/sections for that block
 
-
-
 ### **Common Gutenbricks Settings**
 
-
-
-&nbsp;
-
 #### **Editing Buttons**
-
-
 
 To edit a button inside a Gutenbricks block:
 
@@ -486,8 +404,6 @@ To edit a button inside a Gutenbricks block:
 
 #### **Visibility Settings**
 
-
-
 Many blocks have visibility toggles to show or hide elements:
 
 - Select the block
@@ -499,8 +415,6 @@ This lets you hide parts of a block you don’t want to display without deleting
 
 
 #### **Styles Panel**
-
-
 
 To change colours or background images:
 
@@ -519,8 +433,6 @@ To change colours or background images:
 
 #### **Animation Settings**
 
-
-
 Some blocks have optional animations:
 
 - Select the block
@@ -532,19 +444,13 @@ Some blocks have optional animations:
 
 ---
 
-
-
 ## **Block Settings vs Page Settings**
-
-
 
 This is a common source of confusion. The Settings Panel on the right shows DIFFERENT things depending on what’s selected.
 
 
 
 ### **Block Settings**
-
-
 
 **When you have a block selected**, the panel shows settings for THAT BLOCK:
 
@@ -561,8 +467,6 @@ This is a common source of confusion. The Settings Panel on the right shows DIFF
 
 
 ### **Page Settings**
-
-
 
 **When NO block is selected**, the panel shows settings for THE PAGE:
 
@@ -583,8 +487,6 @@ This is a common source of confusion. The Settings Panel on the right shows DIFF
 
 ### **Quick Switch**
 
-
-
 At the top of the Settings Panel, you may see tabs:
 
 - **Block** – Settings for selected block
@@ -598,13 +500,7 @@ Click these to switch between them.
 
 ## **Featured Images and Headers**
 
-
-
-&nbsp;
-
 ### **What is the Featured Image?**
-
-
 
 The **Featured Image** for a page is what appears in the header section at the top of the page. This is set in the **Page Settings** (not Block Settings).
 
@@ -612,18 +508,13 @@ The **Featured Image** for a page is what appears in the header section at the t
 
 ### **Setting a Featured Image**
 
-
-
-- Make sure no block is selected (click empty area)
+- Make sure no block is selected (click the empty area)
 - In the Settings Panel, find **“Featured Image”**
 - Click to set or change the image
 - Choose from Media Library or upload new
-
-
+- 
 
 ### **Header Images Are Centred**
-
-
 
 All header sections **centre the image both horizontally and vertically**. This means:
 
@@ -634,8 +525,6 @@ All header sections **centre the image both horizontally and vertically**. This 
 
 
 ### **If Your Header Image Doesn’t Look Right**
-
-
 
 If the image isn’t sitting correctly (e.g., important content is cut off at the top):
 
@@ -661,15 +550,9 @@ If the image isn’t sitting correctly (e.g., important content is cut off at th
 
 ## **Page Excerpts – ALWAYS ADD ONE**
 
-
-
 **Every page should have an excerpt.** This is used throughout the site for page summaries, search results, and previews.
 
-
-
 ### **What is a Page Excerpt?**
-
-
 
 A short summary of what the page is about (1-2 sentences). It appears:
 
@@ -682,8 +565,6 @@ A short summary of what the page is about (1-2 sentences). It appears:
 
 ### **How to Add a Page Excerpt**
 
-
-
 - **Open the page for editing**
 - **Make sure no block is selected** (click empty area)
 - Look for the **blue “Excerpt” button** or find “Excerpt” in Page Settings
@@ -694,8 +575,6 @@ A short summary of what the page is about (1-2 sentences). It appears:
 
 
 ### **Writing Good Excerpts**
-
-
 
 **Do:**
 
@@ -725,11 +604,7 @@ A short summary of what the page is about (1-2 sentences). It appears:
 
 
 
-&nbsp;
-
 ### **Safe to Edit Yourself**
-
-
 
 
 | Content Type | How to Edit |
@@ -745,8 +620,6 @@ A short summary of what the page is about (1-2 sentences). It appears:
 
 ### **Adding New Content**
 
-
-
 You can safely add:
 
 - New text blocks
@@ -754,10 +627,7 @@ You can safely add:
 - New Groups with content inside
 - New Columns layouts
 - New Spacers
-- Any block from the TUSA custom blocks (
-  ![🔗](https://s.w.org/images/core/emoji/17.0.2/svg/1f517.svg)
-
-  )
+- Any block from the TUSA custom blocks 
 
 ---
 
@@ -767,14 +637,10 @@ You can safely add:
 
 
 
-&nbsp;
-
 ### **Do Not Touch – Contact Dev Team**
 
 
-
-
-| Item | Why | What To Do Instead |
+| Item | Why | What To Do `Instead` |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
 | **WP Grid Builder blocks** | Complex data connections | Contact dev team |
 | **Shortcodes** | Backend functionality | Contact dev team |
@@ -786,8 +652,6 @@ You can safely add:
 
 
 ### **Signs You’re in the Wrong Place**
-
-
 
 **Stop and ask for help if:**
 
@@ -803,17 +667,9 @@ You can safely add:
 
 ## **Creating Layouts Step by Step**
 
-
-
-&nbsp;
-
 ### **The Basic Pattern**
 
-
-
 Almost every section follows this pattern:
-
-
 
 ```
 Group (container)
@@ -824,11 +680,7 @@ Spacer (breathing room)
 
 
 
-&nbsp;
-
 ### **Creating a Basic Content Section**
-
-
 
 **Step 1:** Add a Group block
 
@@ -852,15 +704,11 @@ Spacer (breathing room)
 
 ### **Creating Two-Column Layouts**
 
-
-
 **Best for:** Text beside images, split content
 
 
 
 #### **Understanding Group Structures**
-
-
 
 When you add a Group block, it asks you to choose a layout structure. **This is important:**
 
@@ -870,8 +718,6 @@ When you add a Group block, it asks you to choose a layout structure. **This is 
 
 
 #### **Content-Width Two Columns (Recommended)**
-
-
 
 This keeps your columns aligned with the rest of your page content, with proper padding on the sides.
 
@@ -911,8 +757,6 @@ Spacer
 
 #### **Full-Width Two Columns (Edge to Edge)**
 
-
-
 If you want columns that span the entire page width with no padding on either side, put the Columns block **outside** of a Group.
 
 **Step 1:** Add a Columns block directly (not inside a Group)
@@ -927,8 +771,6 @@ If you want columns that span the entire page width with no padding on either si
 
 
 ### **Creating Three+ Column Layouts**
-
-
 
 **Important:** For 3+ columns, use Grid blocks with a special class.
 
@@ -949,27 +791,15 @@ If you want columns that span the entire page width with no padding on either si
 
 ---
 
-
-
 ## **Block Settings and Customisation**
 
-
-
-&nbsp;
-
 ### **Accessing Settings**
-
-
 
 - **Select a block** (click it or use List View)
 - **Look at the right panel** – this shows settings for that block
 - **If panel is closed**, click the Settings icon (⚙) in top toolbar
 
-
-
 ### **Common Settings**
-
-
 
 
 | Setting | Where to Find | What It Does |
@@ -984,8 +814,6 @@ If you want columns that span the entire page width with no padding on either si
 
 ### **Heading Levels – Important!**
 
-
-
 Use headings in order for accessibility:
 
 - **H1** – Main page title (usually only one per page)
@@ -998,17 +826,9 @@ Use headings in order for accessibility:
 
 ---
 
-
-
 ## **Common Tasks**
 
-
-
-&nbsp;
-
 ### **Editing Existing Text**
-
-
 
 - Click directly on the text
 - Type your changes
@@ -1018,8 +838,6 @@ Use headings in order for accessibility:
 
 ### **Replacing an Image**
 
-
-
 - Click on the image
 - Click “Replace” in the toolbar that appears
 - Upload new image or choose from Media Library
@@ -1028,8 +846,6 @@ Use headings in order for accessibility:
 
 
 ### **Adding a New Section**
-
-
 
 - Open List View to see where to add it
 - Click where you want the new section
@@ -1042,8 +858,6 @@ Use headings in order for accessibility:
 
 ### **Moving a Section**
 
-
-
 - Open List View
 - Find the section (usually a Group)
 - Drag it to the new position
@@ -1052,8 +866,6 @@ Use headings in order for accessibility:
 
 
 ### **Deleting a Section**
-
-
 
 **Important:** You must delete the BLOCK itself, not just clear its content. If you just select all the text and delete it, you’ll have an empty block left behind.
 
@@ -1079,8 +891,6 @@ Use headings in order for accessibility:
 
 ### **Duplicating a Section**
 
-
-
 - Open List View
 - Click on the section to duplicate
 - Click the three dots (⋮) in the toolbar
@@ -1096,11 +906,7 @@ Use headings in order for accessibility:
 
 
 
-&nbsp;
-
 ### **“I’m lost on the page”**
-
-
 
 **Solution:** Open List View (≡ icon in toolbar)
 
@@ -1112,8 +918,6 @@ Use headings in order for accessibility:
 
 ### **“I selected the wrong thing”**
 
-
-
 **Solution:** Use List View to select precisely
 
 - Don’t click randomly on the page
@@ -1122,8 +926,6 @@ Use headings in order for accessibility:
 
 
 ### **“I can’t find where to type”**
-
-
 
 **Solution:** Look for the cursor or click in List View
 
@@ -1134,8 +936,6 @@ Use headings in order for accessibility:
 
 ### **“Something disappeared”**
 
-
-
 **Solution:** Use Undo immediately
 
 - Press Ctrl+Z (Windows) or Cmd+Z (Mac)
@@ -1145,8 +945,6 @@ Use headings in order for accessibility:
 
 
 ### **“The page looks broken”**
-
-
 
 **Solution:** Don’t panic – you probably haven’t saved yet
 
@@ -1159,8 +957,6 @@ Use headings in order for accessibility:
 
 ### **“I see code or shortcodes”**
 
-
-
 **Solution:** Don’t edit these directly
 
 - Shortcodes like `[something]` are backend functionality
@@ -1170,8 +966,6 @@ Use headings in order for accessibility:
 
 
 ### **“I accidentally edited something I shouldn’t have”**
-
-
 
 **Solution:** Undo and/or don’t save
 
@@ -1187,11 +981,7 @@ Use headings in order for accessibility:
 
 
 
-&nbsp;
-
 ### **DO These Things**
-
-![✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg)
 
 
 
@@ -1213,8 +1003,6 @@ Use headings in order for accessibility:
 
 ### **AVOID These Things**
 
-![❌](https://s.w.org/images/core/emoji/17.0.2/svg/274c.svg)
-
 
 
 
@@ -1233,8 +1021,6 @@ Use headings in order for accessibility:
 
 
 ### **About Accordions – Important Warning**
-
-
 
 **Avoid using Accordion blocks** unless specifically instructed to.
 
@@ -1262,11 +1048,7 @@ Simply dropping an accordion block onto a page – even a TUSA custom one – ma
 
 
 
-&nbsp;
-
 ### **Keyboard Shortcuts**
-
-
 
 
 | Action | Windows | Mac |
@@ -1284,8 +1066,6 @@ Simply dropping an accordion block onto a page – even a TUSA custom one – ma
 
 
 ### **Common Blocks**
-
-
 
 
 | Block | When to Use |
@@ -1308,11 +1088,7 @@ Simply dropping an accordion block onto a page – even a TUSA custom one – ma
 
 
 
-&nbsp;
-
 ### **Before Asking for Help**
-
-
 
 - Try using **List View** to understand the page
 - Use **Undo** if something went wrong
@@ -1322,8 +1098,6 @@ Simply dropping an accordion block onto a page – even a TUSA custom one – ma
 
 
 ### **When to Contact Development Team**
-
-
 
 Contact us for:
 
@@ -1338,8 +1112,6 @@ Contact us for:
 
 ### **How to Ask for Help**
 
-
-
 When you contact us, please include:
 
 - Which page you’re working on (URL)
@@ -1352,8 +1124,6 @@ When you contact us, please include:
 
 
 ## **Remember**
-
-
 
 **You can’t break the site by editing content normally.** The system is designed to be safe.
 
