@@ -2,7 +2,6 @@
 title: test
 hide:
   - toc
-action:
-  enabled: false
 ---
-testing'
+testing' this is just for testing
+
