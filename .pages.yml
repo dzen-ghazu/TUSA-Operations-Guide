@@ -45,14 +45,3 @@ content:
       - name: body
         label: Page Content
         type: rich-text
-        
-actions:
-  - name: deploy-site
-    label: Deploy Site
-    workflow: deploy.yml
-    ref: current
-    cancelable: true
-    confirm:
-      title: Deploy site?
-      message: This will build and publish the latest version of the site.
-      button: Deploy
