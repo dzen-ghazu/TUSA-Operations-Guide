@@ -126,7 +126,8 @@ nav:
 
   - Logging In:
       - Logging In: logging-in/index.md
-
+  - test:
+      - test: test/test.md
   - Store & Product Management:
       - Overview: store-&-product-management/index.md
       - Managing Club Store Products (Clubs super Admin): store-&-product-management/club-products.md
