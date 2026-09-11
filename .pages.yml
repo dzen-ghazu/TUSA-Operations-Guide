@@ -46,26 +46,7 @@ content:
         label: Page Content
         type: rich-text
         
-      - name: action
-        label: Action
-        type: object
-        fields:
-          - name: enabled
-            label: Enable Action
-            type: boolean
-
-          - name: label
-            label: Button Text
-            type: string
-
-          - name: url
-            label: Action URL
-            type: string
-
-          - name: success
-            label: Success Message
-            type: string
-
-          - name: error
-            label: Error Message
-            type: string
+actions:
+  - name: deploy-site
+    label: Deploy Site
+    workflow: deploy.yml
