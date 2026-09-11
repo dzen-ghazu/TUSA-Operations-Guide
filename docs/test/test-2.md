@@ -1,5 +1,5 @@
 ---
-title: test 2
+title: Test 2 &
 hide:
   - toc
 ---
