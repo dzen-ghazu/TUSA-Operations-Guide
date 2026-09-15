@@ -16,11 +16,9 @@ hide:
 
 Both come through the same workflow, but the system handles them differently behind the scenes. apple
 
-
-
 ![](../media/social-card.png)
 
-![](../media/social-card.png)
+
 
 ---
 
