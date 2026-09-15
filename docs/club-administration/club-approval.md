@@ -16,6 +16,8 @@ hide:
 
 Both come through the same workflow, but the system handles them differently behind the scenes. apple
 
+![](<../media/Tusa Website Navigation Guide.png>)
+
 ![](../media/social-card.png)
 
 
