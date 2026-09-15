@@ -16,6 +16,8 @@ hide:
 
 Both come through the same workflow, but the system handles them differently behind the scenes.
 
+![](../media/social-card.png)
+
 ---
 
 ## **Finding Applications**
