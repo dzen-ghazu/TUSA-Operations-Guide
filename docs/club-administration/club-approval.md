@@ -14,7 +14,9 @@ hide:
 | **Reaffiliation** | Existing club renewing for a new year | Updates existing records, doesn’t create duplicates |
 
 
-Both come through the same workflow, but the system handles them differently behind the scenes.
+Both come through the same workflow, but the system handles them differently behind the scenes. apple
+
+
 
 ![](../media/social-card.png)
 
