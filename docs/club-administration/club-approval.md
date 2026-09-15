@@ -29,13 +29,13 @@ This shows applications **assigned to you** for action. If you’re in the clubs
 
 ### **TUSA Internal Group**
 
-**Where:** `/clubs/clubs-index/tusa-internal/` → **Functions** tab
+**Where:** `/clubs/clubs-index/tusa-internal/` → Clubs Admin → Clubs Affiliations
 
 
 | Sub-tab | What’s Here |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Club Affiliations** (`/functions/affiliation/`) | Every affiliation and reaffiliation application, with its status. **This is where you find an application by club name** and see whether it’s pending or approved. |
-| **Re/Affiliation Processing** (`/functions/processing/`) | The **live setup that runs after you approve** an application: it shows each step (store, group, tags, and so on) and whether it succeeded. It is not a queue of applications waiting for review. See *Watching Setup Progress*, below. |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Club Affiliations** | Every affiliation and reaffiliation application, with its status. **This is where you find an application by club name** and see whether it’s pending or approved. |
+| **Re/Affiliation Processing** | The **live setup that runs after you approve** an application: it shows each step (store, group, tags, and so on) and whether it succeeded. It is not a queue of applications waiting for review. See *Watching Setup Progress*, below. |
 | **Club Admin Rolodex** | Contact details for all club admins |
 
 
