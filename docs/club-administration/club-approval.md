@@ -18,6 +18,8 @@ Both come through the same workflow, but the system handles them differently beh
 
 ![](../media/social-card.png)
 
+![](../media/social-card.png)
+
 ---
 
 ## **Finding Applications**
