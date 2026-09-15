@@ -27,6 +27,8 @@ Both come through the same workflow, but the system handles them differently beh
 
 This shows applications **assigned to you** for action. If you’re in the clubs admin team, new applications will appear here.
 
+![Screenshot 2026-09-14 151313.png](<../media/Screenshot 2026-09-14 151313.png>)
+
 ### **TUSA Internal Group**
 
 **Where:** `/clubs/clubs-index/tusa-internal/` → Clubs Admin → Clubs Affiliations
