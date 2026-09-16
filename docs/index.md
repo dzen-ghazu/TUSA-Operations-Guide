@@ -5,5 +5,5 @@ hide:
 ---
 
 <script>
-window.location.href = "Home Page/index/";
+window.location.href = "Home Page/home-page/";
 </script>
