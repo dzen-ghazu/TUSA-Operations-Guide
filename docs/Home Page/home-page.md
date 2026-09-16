@@ -21,7 +21,7 @@ Select a section below to access its documentation.
 
 ## Choose a section
 
-- [Club Administration](/club-administration/index.md)
+- [Club Administration](../club-administration/index.md)
 - [Content Management](content-management/index.md)
 - [EOIs + Feedback](eoi-feedback/index.md)
 - [Events](events/index.md)
