@@ -15,6 +15,8 @@ This site brings together the key guides and processes used across TUSA in one p
 
 ## Navigation Guide
 
+![Tusa Website  PageCMS Staff Navigation Guide.png](<../media/Tusa Website  PageCMS Staff Navigation Guide.png>)
+
 ![](../media/Home-map-guide.png)
 
 Select a section below to access its documentation.
@@ -33,7 +35,7 @@ Select a section below to access its documentation.
 - [Store & Product Management](store-&-product-management/index.md)
 - [User Management](user-management/index.md)
 
-##  Recommended starting points- 
+## Recommended starting points-
 
 - **Managing club-related processes?** Start with [Club Administration](club-administration/index.md).
 - **Updating website content?** Visit [Content Management](content-management/index.md).
