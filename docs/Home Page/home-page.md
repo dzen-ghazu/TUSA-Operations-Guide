@@ -15,8 +15,6 @@ This site brings together the key guides and processes used across TUSA in one p
 
 ## Navigation Guide
 
-![Tusa Website  PageCMS Staff Navigation Guide.png](<../media/Tusa Website  PageCMS Staff Navigation Guide.png>)
-
 ![](../media/Home-map-guide.png)
 
 Select a section below to access its documentation.
