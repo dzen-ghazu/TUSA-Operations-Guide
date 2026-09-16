@@ -98,7 +98,7 @@ nav:
       - Managing Feedback Forms: eoi-feedback/feedback-management.md
       - Managing Review Forms: eoi-feedback/review-management.md
       - Moderating Reviews: eoi-feedback/review-moderation.md
-      - test page: docs/test/test-page.md
+      - test page: test/test-page.md
   - Events:
       - Overview: events/index.md
       - Approving Club Events: events/club-event-approval.md
