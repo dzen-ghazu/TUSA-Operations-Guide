@@ -74,8 +74,6 @@ markdown_extensions:
 
 # Sidebar Navigation Structure
 nav:
-  - Home: Home Page/index.md
-  
   - Club Administration:
     - Overview: club-administration/index.md
     - Approving Club Applications: club-administration/club-approval.md
