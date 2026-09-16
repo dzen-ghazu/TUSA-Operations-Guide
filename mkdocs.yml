@@ -77,7 +77,7 @@ nav:
   - Home: Home-Page/index.md
   
   - Club Administration:
-    - Overview: club-administration/index.md
+    - Overview: club-administration/home-page.md
     - Approving Club Applications: club-administration/club-approval.md
     - Club Groups vs TUSA Groups: club-administration/club-groups-vs-tusa-groups.md
     - Club Membership Numbers and Reports: club-administration/club-membership-numbers-and-reports.md
