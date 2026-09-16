@@ -22,16 +22,16 @@ Select a section below to access its documentation.
 ## Choose a section
 
 - [Club Administration](../club-administration/index.md)
-- [Content Management](content-management/index.md)
-- [EOIs + Feedback](eoi-feedback/index.md)
-- [Events](events/index.md)
-- [Food Hub](food-hub/index.md)
-- [General](general/index.md)
-- [Grants & Funding](grants-&-funding/index.md)
-- [Incident Reports](incident-report/index.md)
-- [Logging In](logging-in/index.md)
-- [Store & Product Management](store-&-product-management/index.md)
-- [User Management](user-management/index.md)
+- [Content Management](../content-management/index.md)
+- [EOIs + Feedback](../eoi-feedback/index.md)
+- [Events](../events/index.md)
+- [Food Hub](../food-hub/index.md)
+- [General](../general/index.md)
+- [Grants & Funding](../grants-&-funding/index.md)
+- [Incident Reports](../incident-report/index.md)
+- [Logging In](../logging-in/index.md)
+- [Store & Product Management](../store-&-product-management/index.md)
+- [User Management](../user-management/index.md)
 
 ## Recommended starting points-
 
