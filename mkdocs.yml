@@ -74,7 +74,7 @@ markdown_extensions:
 
 # Sidebar Navigation Structure
 nav:
-  - Home: Home-Page/home-page.md
+  - Home: Home Page/home-page.md
   
   - Club Administration:
     - Overview: club-administration/index.md
