@@ -74,10 +74,10 @@ markdown_extensions:
 
 # Sidebar Navigation Structure
 nav:
-  - Home: Home-Page/index.md
+  - Home: Home-Page/home-page.md
   
   - Club Administration:
-    - Overview: club-administration/home-page.md
+    - Overview: club-administration/index.md
     - Approving Club Applications: club-administration/club-approval.md
     - Club Groups vs TUSA Groups: club-administration/club-groups-vs-tusa-groups.md
     - Club Membership Numbers and Reports: club-administration/club-membership-numbers-and-reports.md
