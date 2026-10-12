@@ -83,7 +83,6 @@ nav:
     - How Access Works: club-administration/club-access.md
     - Importing Club Members via CSV: club-administration/club-importing-members.md
     - Stripe Connected Accounts: club-administration/stripe-connected-accounts.md
-    - Test Page: club-administration/test-page.md
 
   - Content Management:
       - Overview: content-management/index.md
