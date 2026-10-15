@@ -132,10 +132,6 @@ nav:
       - Managing TUSA Merch Store Products: store-&-product-management/tusa-products.md
       - Setting Up Store Products for Non-Club Entities: store-&-product-management/non-club-products.md
       
-  - Test: 
-      - Overview: test/index.md
-      - Test page: test/test-page.md
-      
   - User Management:
       - Overview: user-management/index.md
       - Connecting Users to a Club Store: user-management/club-store.md
