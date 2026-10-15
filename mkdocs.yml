@@ -131,6 +131,10 @@ nav:
       - Managing Hire Store Products: store-&-product-management/hire-products.md
       - Managing TUSA Merch Store Products: store-&-product-management/tusa-products.md
       - Setting Up Store Products for Non-Club Entities: store-&-product-management/non-club-products.md
+
+  - Test:
+    - Overview: test/index.md
+    - Test Page: test/test-page.md
       
   - User Management:
       - Overview: user-management/index.md
